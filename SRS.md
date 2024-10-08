@@ -44,3 +44,13 @@
 
 ### Předpoklady a závislosti
 - Velmi málo náročné na hardware. Nutnost připojení k internetu.
+
+## Požadavky na rozhraní XXXXXXXXXXXXXXXXX
+### Uživatelská rozhraní
+- Uživatelské rozhraní bude aplikace pro Android. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+### Hardwarová rozhraní
+
+
+### Softwarová rozhraní
+- Nutnost operačního systému Android.
