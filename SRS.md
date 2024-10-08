@@ -29,7 +29,7 @@
 - Produkt jako celek bude **.exe** aplikace spustitelná na zařízeních Android.
 
 ### Funkce
-- Finální aplikace bude schopna zobrazovat detaily ohledně objektů které se pohybují kolem Země. Více detailů dole.
+- Finální aplikace bude schopna zobrazovat detaily ohledně objektů které se pohybují kolem Země. Více detailů [dole](https://github.com/NewJakub/NASA_API_App/blob/main/SRS.md#vlastnosti-syst%C3%A9mu).
 
 ### Uživatelské skupiny
 - Uživatelé nebudou rozřazeni do skupin, protože to není nutné - aplikace na to nené dostatečně složitá.
