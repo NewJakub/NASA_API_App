@@ -54,3 +54,8 @@
 
 ### Softwarová rozhraní
 - Nutnost operačního systému Android.
+
+
+
+aplikace - moznost 
+nastaveni - moznost zmeny api klice
