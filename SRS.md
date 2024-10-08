@@ -55,6 +55,8 @@
 ### Softwarová rozhraní
 - Nutnost operačního systému Android.
 
+## Vlastnosti systému
+
 
 
 aplikace - moznost 
