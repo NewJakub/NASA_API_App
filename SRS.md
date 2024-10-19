@@ -29,13 +29,14 @@
 - Produkt jako celek bude **.exe** aplikace spustitelná na zařízeních Android.
 
 ### Funkce
-- Finální aplikace bude schopna zobrazovat detaily ohledně objektů které se pohybují kolem Země. Více detailů [dole](https://github.com/NewJakub/NASA_API_App/blob/main/SRS.md#vlastnosti-syst%C3%A9mu).
+- Finální aplikace bude schopna zobrazovat detaily ohledně objektů, které se pohybují kolem Země. Více detailů [dole](https://github.com/NewJakub/NASA_API_App/blob/main/SRS.md#vlastnosti-syst%C3%A9mu).
 
 ### Uživatelské skupiny
-- Uživatelé nebudou rozřazeni do skupin, protože to není nutné - aplikace na to nené dostatečně složitá.
+- Uživatelé nebudou rozřazeni do skupin, protože to není nutné - aplikace na to není dostatečně složitá.
 
 ### Provozní prostředí
 - Mobilní zařízení s operačním systémem Android.
+- 
 ### Uživatelské prostředí
 - **.exe** aplikace s GUI rozhraním
 
@@ -43,9 +44,11 @@
 - Není.
 
 ### Předpoklady a závislosti
-- Velmi málo náročné na hardware. Nutnost připojení k internetu.
+- Velmi málo náročné na hardware. Nutnost připojení k internetu kvůli aktualizaci dat z API.
 
-## Požadavky na rozhraní XXXXXXXXXXXXXXXXX
+
+## Požadavky na rozhraní
+
 ### Uživatelská rozhraní
 - Uživatelské rozhraní bude aplikace pro Android. Samotné rozhraní se bude skládat z hlavního menu a nastavení.
 
@@ -54,6 +57,7 @@
 
 ### Softwarová rozhraní
 - Nutnost operačního systému Android.
+
 
 ## Vlastnosti systému
 
@@ -68,16 +72,16 @@
 - Typ: Funkční požadavek.
 
 ### Vlastnost U3 - Změna API klíče
-- Popis a důležitost: Uživatel si bude mít možnost si změnit API klíč v nastavení. Toho dosáhne tak, že do prázdného textového pole vloží samotný klíč. Pokud bude klíč neplatný, bude na to upozorněn v hlavním menu.
-- Vstupy – Akce – Výsledek: Textový vstup od uživatele, změna API klíče.
+- Popis a důležitost: Uživatel bude mít možnost změnit si API klíč v nastavení. Toho dosáhne tak, že do prázdného textového pole vloží samotný klíč. Pokud bude klíč neplatný, bude na to upozorněn v hlavním menu.
+- Vstupy – Akce – Výsledek: Textový vstup od uživatele, změna API klíče, možnost upozornění v případě špatného klíče.
 - Typ: Funkční požadavek.
 
 ### Vlastnost U4 - Zobrazování asteroidů
-- Popis a důležitost: V hlavním menu se bude nacházet seznam všech asteroidů které nám pošle API. Pokud bude uživatel chtít, tak bude mít možnost si rozkliknout jakýkoliv asteroid, který si vybere. Následovně se mu zobrazí všechny jeho detaily, jako jsou: jeho velikost a její porovnání k nějakému předmětu na zemi s podobnou velkostí, jeho rychlost a za jak dlouho by byl schopen obletět Zemi, jestli je nebezpečný a datum přiblížení asteroidu.
+- Popis a důležitost: V hlavním menu se bude nacházet seznam všech asteroidů, které nám pošle API. Pokud bude uživatel chtít, tak bude mít možnost si rozkliknout jakýkoliv asteroid, který si vybere. Následovně se mu zobrazí všechny jeho detaily, jako jsou: jeho velikost a její porovnání k nějakému předmětu na zemi s podobnou velkostí, jeho rychlost a za jak dlouho by byl schopen obletět Zemi, jestli je nebezpečný a datum přiblížení asteroidu.
 - Vstupy – Akce – Výsledek: Zobrazení seznamu asteroidů.
 - Typ: Funkční požadavek.
 
 ### Vlastnost U5 - Obnovení výsledků
-- Popis a důležitost: Pokaždé, co uživatel zapne aplikace, pošleme na API nový požadavek o data. Pokud uživatel nebude mít přístup k datovému připojení, použijte poslední aktualizovaná data a zobrazte poslední datum aktualizace. Uživatel taky bude mít možnost aktualizovat výsledky sám, pomocí tlačítka v levém horním rohu.  
+- Popis a důležitost: Pokaždé, co uživatel zapne aplikace, pošleme na API nový požadavek o data. Pokud uživatel nebude mít přístup k datovému připojení, budou použita poslední aktualizovaná data a bude zobrazeno poslední datum aktualizace. Uživatel taky bude mít možnost aktualizovat výsledky sám, pomocí tlačítka v levém horním rohu.  
 - Vstupy – Akce – Výsledek: Stisknutí tlačítka uživatelem, aktualizace zobrazovaných dat.
 - Typ: Funkční požadavek.
