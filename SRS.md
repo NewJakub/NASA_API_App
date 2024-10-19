@@ -36,7 +36,7 @@
 
 ### Provozní prostředí
 - Mobilní zařízení s operačním systémem Android.
-- 
+
 ### Uživatelské prostředí
 - **.exe** aplikace s GUI rozhraním
 
