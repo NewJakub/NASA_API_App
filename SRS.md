@@ -50,13 +50,32 @@
 - Uživatelské rozhraní bude aplikace pro Android. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ### Hardwarová rozhraní
-
+- Není.
 
 ### Softwarová rozhraní
 - Nutnost operačního systému Android.
 
 ## Vlastnosti systému
 
+### Vlastnost U1 - Hlavní menu
+- Popis a důležitost: Hlavní menu bude pro uživatele ta nejdůležitější část této aplikace. Bude se v ní nacházet výčet všech asteroidů a jejich podrobné údaje. Právě zde bude uživatel mít možnost se dostat do nastavení.
+- Vstupy – Akce – Výsledek: Nejsou.
+- Typ: Funkční požadavek.
+
+### Vlastnost U2 - Nastavení
+- Popis a důležitost: Uživatel bude si uživatel zn
+- Vstupy – Akce – Výsledek: Nejsou.
+- Typ: Funkční požadavek.
+
+### Vlastnost U3 - Změna API klíče
+- Popis a důležitost: Uživatel si bude mít možnost si změnit API klíč v nastavení. Toho dosáhne tak, že do prázdného textového pole vloží samotný klíč. Pokud bude klíč neplatný, bude na to upozorněn v hlavním menu.
+- Vstupy – Akce – Výsledek: .
+- Typ: Funkční požadavek.
+
+### Vlastnost U4 - Zobrazování asteroidů
+- Popis a důležitost: V hlavním menu se bude nacházet seznam všech asteroidů které nám pošle API. Pokud bude uživatel chtít, tak bude mít možnost si rozkliknout jakýkoliv asteroid, který si vybere. Následovně se mu zobrazí všechny jeho detaily, jako jsou: jeho velikost a její porovnání k nějakému předmětu na zemi s podobnou velkostí, jeho rychlost a za jak dlouho by byl schopen obletět Zemi, jestli je nebezpečný a datum přiblížení asteroidu.
+- Vstupy – Akce – Výsledek: Nejsou.
+- Typ: Funkční požadavek.
 
 
 aplikace - moznost 
