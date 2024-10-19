@@ -47,7 +47,7 @@
 
 ## Požadavky na rozhraní XXXXXXXXXXXXXXXXX
 ### Uživatelská rozhraní
-- Uživatelské rozhraní bude aplikace pro Android. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+- Uživatelské rozhraní bude aplikace pro Android. Samotné rozhraní se bude skládat z hlavního menu a nastavení.
 
 ### Hardwarová rozhraní
 - Není.
@@ -63,20 +63,21 @@
 - Typ: Funkční požadavek.
 
 ### Vlastnost U2 - Nastavení
-- Popis a důležitost: Uživatel bude si uživatel zn
-- Vstupy – Akce – Výsledek: Nejsou.
+- Popis a důležitost: Uživatel bude moct pomocí tlačítka v pravém horním rohu přejít do nastavení. 
+- Vstupy – Akce – Výsledek: Stisknutí tlačítka uživatelem, změna hlavního menu na nastavení.
 - Typ: Funkční požadavek.
 
 ### Vlastnost U3 - Změna API klíče
 - Popis a důležitost: Uživatel si bude mít možnost si změnit API klíč v nastavení. Toho dosáhne tak, že do prázdného textového pole vloží samotný klíč. Pokud bude klíč neplatný, bude na to upozorněn v hlavním menu.
-- Vstupy – Akce – Výsledek: .
+- Vstupy – Akce – Výsledek: Textový vstup od uživatele, změna API klíče.
 - Typ: Funkční požadavek.
 
 ### Vlastnost U4 - Zobrazování asteroidů
 - Popis a důležitost: V hlavním menu se bude nacházet seznam všech asteroidů které nám pošle API. Pokud bude uživatel chtít, tak bude mít možnost si rozkliknout jakýkoliv asteroid, který si vybere. Následovně se mu zobrazí všechny jeho detaily, jako jsou: jeho velikost a její porovnání k nějakému předmětu na zemi s podobnou velkostí, jeho rychlost a za jak dlouho by byl schopen obletět Zemi, jestli je nebezpečný a datum přiblížení asteroidu.
-- Vstupy – Akce – Výsledek: Nejsou.
+- Vstupy – Akce – Výsledek: Zobrazení seznamu asteroidů.
 - Typ: Funkční požadavek.
 
-
-aplikace - moznost 
-nastaveni - moznost zmeny api klice
+### Vlastnost U5 - Obnovení výsledků
+- Popis a důležitost: Pokaždé, co uživatel zapne aplikace, pošleme na API nový požadavek o data. Pokud uživatel nebude mít přístup k datovému připojení, použijte poslední aktualizovaná data a zobrazte poslední datum aktualizace. Uživatel taky bude mít možnost aktualizovat výsledky sám, pomocí tlačítka v levém horním rohu.  
+- Vstupy – Akce – Výsledek: Stisknutí tlačítka uživatelem, aktualizace zobrazovaných dat.
+- Typ: Funkční požadavek.
