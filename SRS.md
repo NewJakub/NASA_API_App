@@ -22,7 +22,7 @@
 - +420 799 790 193
 
 ### Odkazy na další dokumenty
-- Momentálně jiné dokumenty, na které by se dalo odkazovat neexistují
+- Momentálně jiné dokumenty, na které by se dalo odkazovat neexistují.
 
 ## Celkový popis
 ### Produkt jako celek
