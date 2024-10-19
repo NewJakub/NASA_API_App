@@ -12,7 +12,7 @@
 - Hlavní nadpisy jsou označené jako "**#**". Podnadpisy jsou pak označené "**##**" a "**###**". Nížší úrovně jsou už označované "nestováním bullet listů" pomocí znaku "-".
 
 ### Cílová skupina
-- Cílová skupina jsou lidé, které zajímají novinky ohledně objektů které se pohybují kolem Země.
+- Cílová skupina jsou lidé, které zajímají novinky ohledně objektů, které se pohybují kolem Země.
 
 ### Další informace
 - Žádné další informace nejsou
