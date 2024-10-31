@@ -26,7 +26,7 @@
 
 ## Celkový popis
 ### Produkt jako celek
-- Produkt jako celek bude **.exe** aplikace spustitelná na zařízeních Android.
+- Produkt bude funkční aplikace, která bude schopna získávat data z NASA API, pomocí klíče který bude přednastavený anebo uživatelem zvolený.
 
 ### Funkce
 - Finální aplikace bude schopna zobrazovat detaily ohledně objektů, které se pohybují kolem Země. Více detailů [dole](https://github.com/NewJakub/NASA_API_App/blob/main/SRS.md#vlastnosti-syst%C3%A9mu).
