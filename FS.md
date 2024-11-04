@@ -1,4 +1,4 @@
-# FS šachový automat
+# FS NASA API APLIKACE
 
 - Autor: Jakub Černošek
 - Verze 1.0
