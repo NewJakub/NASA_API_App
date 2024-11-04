@@ -28,9 +28,6 @@
 - Nastavení
   - Po přechodu do nastavení bude možnost změnit si API klíč v nastavení. Toho dosáhne uživatel tak, že do prázdného textového pole vloží samotný klíč. Pokud bude klíč neplatný, bude na to upozorněn v hlavním menu.
 
-- Neplatný API klíč
-  - Pokud bude API klíč, který uživatel zadá neplatný, bude na to upozorněn v hlavním menu.
-
 - Obnovení výsledků
   - Pokaždé, co uživatel zapne aplikace, pošleme na API nový požadavek o data. Pokud uživatel nebude mít přístup k datovému připojení, budou použita poslední aktualizovaná data a bude zobrazeno poslední datum aktualizace. Uživatel taky bude mít možnost aktualizovat výsledky sám, pomocí tlačítka v levém horním rohu.
 
