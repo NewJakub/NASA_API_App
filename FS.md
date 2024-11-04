@@ -47,3 +47,6 @@
 - Detaily asteroidu
   - Okno se bude skládat z popisu asteroidu, který nám vrátí NASA API.  
   - ![](https://github.com/NewJakub/NASA_API_App/blob/main/Images/details.png)
+- Neplatný API klíč
+  - Pokud bude API klíč, který uživatel zadá neplatný, aplikace vyhodí upozornění.  
+  - ![](https://github.com/NewJakub/NASA_API_App/blob/main/Images/error.png)
