@@ -38,7 +38,7 @@
 - Hlavní menu
   - Zde se budou nacházet dvě tlačítka ("Nastavení" a "Obnovit výsledky"), které budou umístěné v panelu nahoře. Pod nimi se pak bude nacházet výčet všech asteroidů, které nám API vrátí. 
   - ![](https://github.com/NewJakub/NASA_API_App/blob/main/Images/main.png)
-- Nastavení hry
+- Nastavení
   - Bude obsahovat textové pole, do kterého bude moct uživatel zadat svůj vlastní API klíč.
   - ![](https://github.com/NewJakub/NASA_API_App/blob/main/Images/settings.png)
 - Detaily asteroidu
