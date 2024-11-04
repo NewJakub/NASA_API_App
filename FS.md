@@ -37,16 +37,10 @@
 ### Hlavní moduly (samotné obrázky jsou jenom orientační, barvy budou dodělané podle vybraného schéma)
 - Hlavní menu
   - Zde se budou nacházet dvě tlačítka ("Nastavení" a "Obnovit výsledky"), které budou umístěné uprostřed okna.  
-  - ![](https://github.com/NewJakub/sachovy_automat/blob/main/main_menu.png)
+  - ![](https://github.com/NewJakub/NASA_API_App/blob/main/Images/main.png)
 - Nastavení hry
   - Bude obsahovat dvě dropdown menu ("Barva" a "Časovač") a jedno tlačítko (Zapnout hru).
-  - ![](https://github.com/NewJakub/sachovy_automat/blob/main/settings.png)
+  - ![](https://github.com/NewJakub/NASA_API_App/blob/main/Images/settings.png)
 - Okno pozastavení hry
   - Okno se bude skládat ze dvou tlačítek ("Vrátit se do hry" a "Opustit aplikaci"), které budou uprostřed obrazovky.  
-  - ![](https://github.com/NewJakub/sachovy_automat/blob/main/pause_menu.png)
-- Šachovnice
-  - Zde se bude nacházet šachovnice, časovač v pravém horním rohu a tlačítko s ikonkou pauzy v levém horním rohu.
-  - ![](https://github.com/NewJakub/sachovy_automat/blob/main/game_board.png)
-- Finální menu
-  - Zde se budou nacházet dvě tlačítka ("Hrát znovu" a "Opustit aplikaci"), které budou umístěné uprostřed okna.
-  - ![](https://github.com/NewJakub/sachovy_automat/blob/main/game_over.png)
+  - ![](https://github.com/NewJakub/NASA_API_App/blob/main/Images/details.png)
