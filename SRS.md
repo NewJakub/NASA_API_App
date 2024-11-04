@@ -85,3 +85,18 @@
 - Popis a důležitost: Pokaždé, co uživatel zapne aplikace, pošleme na API nový požadavek o data. Pokud uživatel nebude mít přístup k datovému připojení, budou použita poslední aktualizovaná data a bude zobrazeno poslední datum aktualizace. Uživatel taky bude mít možnost aktualizovat výsledky sám, pomocí tlačítka v levém horním rohu.  
 - Vstupy – Akce – Výsledek: Stisknutí tlačítka uživatelem, aktualizace zobrazovaných dat.
 - Typ: Funkční požadavek.
+
+### Vlastnost U6 - Rychlost
+- Popis a důležitost: Výkonnost této aplikace záleží na rychlosti odpovědi API, tudíž specifikujeme požadovanou rychlost aplikace bez započítání odpovědi API. To znamená že "response time" nebude delší jak 1 sekunda.  
+- Vstupy – Akce – Výsledek: Nejsou.
+- Typ: Nefunkční požadavek.
+
+### Vlastnost U7 - Dokumentace
+- Popis a důležitost: Jako dokumentace tohoto projektu budou sloužit tento dokument a v budouvnu dokument SRS.   
+- Vstupy – Akce – Výsledek: Nejsou.
+- Typ: Nefunkční požadavek.
+
+### Vlastnost U8 - Bezpečnost
+- Popis a důležitost: Vzhledem k tomu, že naše aplikace nemá žádné citlivé informace, nemá cenu řešit bezpečnost.   
+- Vstupy – Akce – Výsledek: Nejsou.
+- Typ: Nefunkční požadavek.
