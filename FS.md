@@ -32,7 +32,10 @@
   - Pokud bude API klíč, který uživatel zadá neplatný, bude na to upozorněn v hlavním menu.
 
 - Obnovení výsledků
-  - Pokaždé, co uživatel zapne aplikace, pošleme na API nový požadavek o data. Pokud uživatel nebude mít přístup k datovému připojení, budou použita poslední aktualizovaná data a bude zobrazeno poslední datum aktualizace. Uživatel taky bude mít možnost aktualizovat výsledky sám, pomocí tlačítka v levém horním rohu. 
+  - Pokaždé, co uživatel zapne aplikace, pošleme na API nový požadavek o data. Pokud uživatel nebude mít přístup k datovému připojení, budou použita poslední aktualizovaná data a bude zobrazeno poslední datum aktualizace. Uživatel taky bude mít možnost aktualizovat výsledky sám, pomocí tlačítka v levém horním rohu.
+
+- Detaily asteroidů
+  - Pokud si uživatel rozklikne políčko s asteroidem, ukážou se mu jeho detaily. Více specifikací ohledně datailů [zde](https://github.com/NewJakub/NASA_API_App/blob/main/Images/details.png).
 
 ### Hlavní moduly (samotné obrázky jsou jenom orientační, barvy budou dodělané podle vybraného schéma)
 - Hlavní menu
