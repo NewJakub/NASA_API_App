@@ -36,11 +36,11 @@
 
 ### Hlavní moduly (samotné obrázky jsou jenom orientační, barvy budou dodělané podle vybraného schéma)
 - Hlavní menu
-  - Zde se budou nacházet dvě tlačítka ("Nastavení" a "Obnovit výsledky"), které budou umístěné uprostřed okna.  
+  - Zde se budou nacházet dvě tlačítka ("Nastavení" a "Obnovit výsledky"), které budou umístěné v panelu nahoře. Pod nimi se pak bude nacházet výčet všech asteroidů, které nám API vrátí. 
   - ![](https://github.com/NewJakub/NASA_API_App/blob/main/Images/main.png)
 - Nastavení hry
-  - Bude obsahovat dvě dropdown menu ("Barva" a "Časovač") a jedno tlačítko (Zapnout hru).
+  - Bude obsahovat textové pole, do kterého bude moct uživatel zadat svůj vlastní API klíč.
   - ![](https://github.com/NewJakub/NASA_API_App/blob/main/Images/settings.png)
-- Okno pozastavení hry
-  - Okno se bude skládat ze dvou tlačítek ("Vrátit se do hry" a "Opustit aplikaci"), které budou uprostřed obrazovky.  
+- Detaily asteroidu
+  - Okno se bude skládat z popisu asteroidu, který nám vrátí NASA API.  
   - ![](https://github.com/NewJakub/NASA_API_App/blob/main/Images/details.png)
