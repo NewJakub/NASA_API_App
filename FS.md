@@ -2,7 +2,7 @@
 
 - Autor: Jakub Černošek
 - Verze 1.0
-- Datum: 16.3.2024
+- Datum: 11.4.2024
 
 ## Úvod
 ### Účel
@@ -13,7 +13,7 @@
 ### Pro koho je dokument určený
 - Programátory, vývojář, designery a zákazníky.
 ### Odkazy na další dokumenty
-- SRS šachový automat
+- [SRS](https://github.com/NewJakub/NASA_API_App/blob/main/SRS.md)
 
 ## Scénáře
 
