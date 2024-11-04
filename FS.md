@@ -35,7 +35,7 @@
   - Pokaždé, co uživatel zapne aplikace, pošleme na API nový požadavek o data. Pokud uživatel nebude mít přístup k datovému připojení, budou použita poslední aktualizovaná data a bude zobrazeno poslední datum aktualizace. Uživatel taky bude mít možnost aktualizovat výsledky sám, pomocí tlačítka v levém horním rohu.
 
 - Detaily asteroidů
-  - Pokud si uživatel rozklikne políčko s asteroidem, ukážou se mu jeho detaily. Více specifikací ohledně datailů [zde](https://github.com/NewJakub/NASA_API_App/blob/main/Images/details.png).
+  - Pokud si uživatel rozklikne políčko s asteroidem, ukážou se mu jeho detaily. Více specifikací ohledně datailů [zde](https://github.com/NewJakub/NASA_API_App/blob/main/SRS.md#vlastnost-u4---zobrazov%C3%A1n%C3%AD-asteroid%C5%AF).
 
 ### Hlavní moduly (samotné obrázky jsou jenom orientační, barvy budou dodělané podle vybraného schéma)
 - Hlavní menu
