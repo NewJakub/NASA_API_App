@@ -56,13 +56,13 @@
 ## Požadavky na rozhraní
 
 ### Uživatelská rozhraní
-- Uživatelské rozhraní bude aplikace pro Android. Samotné rozhraní se bude skládat z hlavního menu a nastavení.
+- Uživatelské rozhraní bude aplikace pro Windows. Samotné rozhraní se bude skládat z hlavního menu a nastavení.
 
 ### Hardwarová rozhraní
 - Není.
 
 ### Softwarová rozhraní
-- Nutnost operačního systému Android.
+- Nutnost operačního systému Windows.
 
 
 ## Vlastnosti systému
