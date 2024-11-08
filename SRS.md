@@ -71,38 +71,47 @@
 - Popis a důležitost: Hlavní menu bude pro uživatele ta nejdůležitější část této aplikace. Bude se v ní nacházet výčet všech asteroidů a jejich podrobné údaje. Právě zde bude uživatel mít možnost se dostat do nastavení.
 - Vstupy – Akce – Výsledek: Nejsou.
 - Typ: Funkční požadavek.
-
+- Priorita: Vysoká.
+  
 ### Vlastnost U2 - Nastavení
 - Popis a důležitost: Uživatel bude moct pomocí tlačítka v pravém horním rohu přejít do nastavení. 
 - Vstupy – Akce – Výsledek: Stisknutí tlačítka uživatelem, změna hlavního menu na nastavení.
 - Typ: Funkční požadavek.
+- Priorita: Nízká.
 
 ### Vlastnost U3 - Změna API klíče
 - Popis a důležitost: Uživatel bude mít možnost změnit si API klíč v nastavení. Toho dosáhne tak, že do prázdného textového pole vloží samotný klíč. Pokud bude klíč neplatný, bude na to upozorněn v hlavním menu.
 - Vstupy – Akce – Výsledek: Textový vstup od uživatele, změna API klíče, možnost upozornění v případě špatného klíče.
 - Typ: Funkční požadavek.
-
+- Priorita: Nízká.
+  
 ### Vlastnost U4 - Zobrazování asteroidů
 - Popis a důležitost: V hlavním menu se bude nacházet seznam všech asteroidů, které nám pošle API. Pokud bude uživatel chtít, tak bude mít možnost si rozkliknout jakýkoliv asteroid, který si vybere. Následovně se mu zobrazí všechny jeho detaily, jako jsou: jeho velikost a její porovnání k nějakému předmětu na zemi s podobnou velkostí, jeho rychlost a za jak dlouho by byl schopen obletět Zemi, jestli je nebezpečný a datum přiblížení asteroidu.
 - Vstupy – Akce – Výsledek: Zobrazení seznamu asteroidů.
 - Typ: Funkční požadavek.
-
+- Priorita: Vysoká.
+  
 ### Vlastnost U5 - Obnovení výsledků
 - Popis a důležitost: Pokaždé, co uživatel zapne aplikace, pošleme na API nový požadavek o data. Pokud uživatel nebude mít přístup k datovému připojení, budou použita poslední aktualizovaná data a bude zobrazeno poslední datum aktualizace. Uživatel taky bude mít možnost aktualizovat výsledky sám, pomocí tlačítka v levém horním rohu.  
 - Vstupy – Akce – Výsledek: Stisknutí tlačítka uživatelem, aktualizace zobrazovaných dat.
 - Typ: Funkční požadavek.
-
+- Priorita: Vysoká.
+  
 ### Vlastnost U6 - Rychlost
 - Popis a důležitost: Výkonnost této aplikace záleží na rychlosti odpovědi API, tudíž specifikujeme požadovanou rychlost aplikace bez započítání odpovědi API. To znamená že "response time" nebude delší jak 1 sekunda.  
 - Vstupy – Akce – Výsledek: Nejsou.
 - Typ: Nefunkční požadavek.
-
+- Priorita: Střední.
+  
 ### Vlastnost U7 - Dokumentace
 - Popis a důležitost: Jako dokumentace tohoto projektu budou sloužit tento dokument a v budouvnu dokument SRS.   
 - Vstupy – Akce – Výsledek: Nejsou.
 - Typ: Nefunkční požadavek.
-
+- Priorita: Nízká.
+  
 ### Vlastnost U8 - Bezpečnost
 - Popis a důležitost: Vzhledem k tomu, že naše aplikace nemá žádné citlivé informace, nemá cenu řešit bezpečnost.   
 - Vstupy – Akce – Výsledek: Nejsou.
 - Typ: Nefunkční požadavek.
+- Priorita: Nízká.
+  
