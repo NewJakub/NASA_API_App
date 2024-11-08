@@ -41,7 +41,7 @@
 - Uživatelé nebudou rozřazeni do skupin, protože to není nutné - aplikace na to není dostatečně složitá.
 
 ### Provozní prostředí
-- Mobilní zařízení s operačním systémem Android.
+- Mobilní zařízení s operačním systémem Windows.
 
 ### Uživatelské prostředí
 - **.exe** aplikace s GUI rozhraním.
