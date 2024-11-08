@@ -9,7 +9,7 @@
 |-------|-------|--------|-----------------------------------|
 | 1.0     | 8.10. |Jakub Černošek    | První verze dokumentu            |
 | 1.1     | 4.11. |Jakub Černošek    | Upravení produktu jako celek, přidání funkčních požadavků|
-| 1.2     | 8.11. |Jakub Černošek    | Přidání historie verzí a priority požadavků|
+| 1.2     | 8.11. |Jakub Černošek    | Přidání historie verzí a priority požadavků, úprava cílové platformy|
 ## Úvod
 ### Účel
 - Vytvořit aplikaci, ve které se budou zobrazovat objekty které jsou blízko Zemi.
