@@ -3,7 +3,11 @@
 - Autor: Jakub Černošek
 - Verze 1.0
 - Datum: 4.11.2024
-
+## Historie dokumentu
+| Verze | Datum | Autor          | Komentář                             |
+|-------|-------|--------|----------------------------------------------|
+| 1.0     | 4.11. |Jakub Černošek    | První verze dokumentu            |
+| 1.1     | 9.11. |Jakub Černošek    | Přidání historie dokumentu|
 ## Úvod
 ### Účel
 - Účel dokumentu je detailní popsání funkcí a stavů aplikace.
